@@ -1,5 +1,4 @@
 # Stock-Market-Forecasting-Predicting-the-Next-Big-Move
-# Stock Market Forecasting: Predicting the Next Big Move
 
 ## 📌 Project Description
 Stock market forecasting is one of the most complex and challenging problems in data science and finance. This project aims to predict future stock price movements or trends based on historical stock data using time-series forecasting techniques. The goal is to identify patterns that help forecast market behaviour, such as predicting price increases, decreases, or volatility.
@@ -31,11 +30,10 @@ Develop a model that can analyze historical stock data and forecast future stock
 1. Clone the repository:
   
    git clone https://github.com/your-username/Stock-Market-Forecasting-Predicting-the-Next-Big-Move.git
-Install dependencies:
+   Install dependencies:
 
-pip install -r requirements.txt
-Open Jupyter Notebook:
-
+2.pip install -r requirements.txt
+3.Open Jupyter Notebook:
 jupyter notebook
 Run the notebook Stock_market_forecasting.ipynb step by step.
 
